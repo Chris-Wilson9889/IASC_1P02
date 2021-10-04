@@ -1,0 +1,21 @@
+div.green {
+	background-color: green;
+}
+
+div.blackDot {
+	border-style: dotted; 
+	border-width:3px; 
+	border-color: black; 
+	margin-right: 2%;
+	margin-left: 2%;
+}
+
+p.red {
+	color: red;
+}
+
+p.green{
+ color: darkgreen;
+}
+
+
