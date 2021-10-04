@@ -1,0 +1,29 @@
+div.outside {
+	border: 5px solid black;
+	width: 80%;
+	margin: auto;
+	margin-top: 200px;
+}
+
+div.green {
+	border-style: dashed; 
+	border-width:2px; 
+	border-color: green; 
+	padding: 10px;
+	margin: 2%;
+	color: red;
+
+}
+
+div.yellow {
+	border-style:dashed; 
+	border-width:2px; 
+	border-color: yellow; 
+	padding: 15px;
+	bottom: 10px;
+	width: 20%;
+}
+
+img.yellow {
+	width: 100%;
+}
